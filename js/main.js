@@ -130,7 +130,7 @@ return lista;
   for(let i = 0; i < numb; i++){
 
       
-    const reque =  await fetch("articulos.json");
+    const reque =  await fetch("../articulos.json");
     const conten = await reque.json();
     const ar = conten.content[cont].name;
 
