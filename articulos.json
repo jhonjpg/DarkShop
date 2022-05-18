@@ -1,0 +1,120 @@
+
+
+{
+
+   "content":[
+
+   
+{
+
+"id": "1",
+"Price": "220.31",
+"image":  "./img/nike-2016-runner/nike-runner.jpg",
+"fotico":  ["./img/nike-2016-runner/nike-runner.jpg", "./img/nike-2016-runner/runner.jpg", "./img/nike-2016-runner/runner2.jpg", "./img/nike-2016-runner/runner3.jpg"],
+"name": "runner"
+},
+
+{
+   "id": "2",
+   "Price": "220.31",
+   "image":  "./img/nike-huarache/huarache.jpg",
+   "fotico":  ["./img/nike-huarache/nike-huarache.jpg", "./img/nike-huarache/huarache.jpg","./img/nike-huarache/huarache2.jpg", "./img/nike-huarache/huarache3.jpg"],
+   "name": "huarache"
+   },
+
+   {
+      "id": "3",
+      "Price": "220.31",
+      "image":  "./img/nike-kobe/kobe2.jpg",
+      "fotico":  ["./img/nike-kobe/nike-kobe.jpg", "./img/nike-kobe/kobe.jpg","./img/nike-kobe/kobe2.jpg", "./img/nike-kobe/kobe3.jpg"],
+      "name": "kobe"
+      },
+
+  
+
+      {
+
+         "id": "5",
+         "Price": "220.31",
+         "image":  "./img/nike-metcon/nike-metcon.jpg",
+         "fotico":  ["./img/nike-metcon/nike-metcon.jpg", "./img/nike-metcon/metcon.jpg","./img/nike-metcon/metcon2.jpg", "./img/nike-metcon/metcon3.jpg"],
+         "name": "runner"
+         },
+
+
+{
+
+   "id": "1",
+   "Price": "220.31",
+   "image":  "./img/nike-2016-runner/nike-runner.jpg",
+   "fotico":  ["./img/nike-2016-runner/nike-runner.jpg", "./img/nike-2016-runner/runner.jpg","./img/nike-2016-runner/runner2.jpg", "./img/nike-2016-runner/runner3.jpg"],
+   "name": "runner"
+   },
+   
+   {
+      "id": "2",
+      "Price": "220.31",
+      "image":  "./img/nike-huarache/huarache.jpg",
+      "fotico":  ["./img/nike-huarache/nike-huarache.jpg", "./img/nike-huarache/huarache.jpg","./img/nike-huarache/huarache2.jpg", "./img/nike-huarache/huarache3.jpg"],
+      "name": "huarache"
+      },
+   
+      {
+         "id": "3",
+         "Price": "220.31",
+         "image":  "./img/nike-kobe/kobe2.jpg",
+         "fotico":  ["./img/nike-kobe/nike-kobe.jpg", "./img/nike-kobe/kobe.jpg","./img/nike-kobe/kobe2.jpg", "./img/nike-kobe/kobe3.jpg"],
+         "name": "kobe"
+         },
+   
+     
+   
+         {
+   
+            "id": "5",
+            "Price": "220.31",
+            "image":  "./img/nike-metcon/nike-metcon.jpg",
+            "fotico":  ["./img/nike-metcon/nike-metcon.jpg", "./img/nike-metcon/metcon.jpg","./img/nike-metcon/metcon2.jpg", "./img/nike-metcon/metcon3.jpg"],
+            "name": "runner"
+            },
+
+
+{
+
+   "id": "1",
+   "Price": "220.31",
+   "image":  "./img/nike-2016-runner/nike-runner.jpg",
+   "fotico":  ["./img/nike-2016-runner/nike-runner.jpg", "./img/nike-2016-runner/runner.jpg","./img/nike-2016-runner/runner2.jpg", "./img/nike-2016-runner/runner3.jpg"],
+   "name": "runner"
+   },
+   
+   {
+      "id": "2",
+      "Price": "220.31",
+      "image":  "./img/nike-huarache/huarache.jpg",
+      "fotico":  ["./img/nike-huarache/nike-huarache.jpg", "./img/nike-huarache/huarache.jpg","./img/nike-huarache/huarache2.jpg", "./img/nike-huarache/huarache3.jpg"],
+      "name": "huarache"
+      },
+   
+      {
+         "id": "3",
+         "Price": "220.31",
+         "image":  "./img/nike-kobe/kobe2.jpg",
+         "fotico":  ["./img/nike-kobe/nike-kobe.jpg", "./img/nike-kobe/kobe.jpg","./img/nike-kobe/kobe2.jpg", "./img/nike-kobe/kobe3.jpg"],
+         "name": "kobe"
+         },
+   
+     
+   
+         {
+   
+            "id": "5",
+            "Price": "220.31",
+            "image":  "./img/nike-metcon/nike-metcon.jpg",
+            "fotico":  ["./img/nike-metcon/nike-metcon.jpg", "./img/nike-metcon/metcon.jpg","./img/nike-metcon/metcon2.jpg", "./img/nike-metcon/metcon3.jpg"],
+            "name": "runner"
+            }
+
+      ]
+
+   }
